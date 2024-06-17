@@ -12,7 +12,6 @@ The Alarm Clock App is designed to help users set and manage alarms with ease. T
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
-- [Demo](#demo)
 
 ## Features
 
@@ -25,11 +24,12 @@ The Alarm Clock App is designed to help users set and manage alarms with ease. T
 
 ## Screenshots
 
-Include some screenshots of your app to give users a visual idea of what your app looks like.
-
-![Screenshot1](link_to_screenshot1)
-![Screenshot2](link_to_screenshot2)
-![Screenshot3](link_to_screenshot3)
+<div>
+    <img src="images/home.png" alt="Home" width="290" height="550">
+    <img src="images/set.png" alt="set" width="290" height="550">
+    <img src="images/alarm.png" alt="alarm" width="290" height="550">
+    <img src="images/ringing.png" alt="alarm" width="290" height="550">
+</div>
 
 ## Installation
 
@@ -83,7 +83,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 Nihal Ahmed - [n.nihalahmed1@gmail.com](mailto:n.nihalahmed1@gmail.com)
 
 Project Link: [Alarm Clock](https://github.com/nihalahmed07/CodSoft-Task-3-Alarm-Clock)
-
-## Demo
-
-Check out a video demo of the Alarm Clock App on YouTube: [Click here for demo](https://www.youtube.com/link_to_alarm_clock_demo)
